@@ -3,6 +3,6 @@
 Con:
 
  - "git push origin main" parece que lo subir al repositorio posta.
- - "git commit"
+ - "git commit -m "text" "
  - "git add ."
  - 
