@@ -5,4 +5,4 @@ Con:
  - "git push origin main" parece que lo subir al repositorio posta.
  - "git commit -m "text" "  preparar el commit o algo asi
  - "git add ." para añadir los archivos a un prox commit
- - "git pull origin main" para poner lo del repo (que seria lo local) en tu equipo remoto.
+ - "git pull origin main" para poner lo del repo (que seria lo local) en tu equipo remoto. ESTO ES UN CAMBIO LOCO.
