@@ -1,7 +1,7 @@
 
 
 Con:
-
+ - "git clone link (el link sacado de git en la seccion de code...)" eso te clona tu repo en tu ordenador"
  - "git push origin main" parece que lo subir al repositorio posta.
  - "git commit -m "text" "  preparar el commit o algo asi
  - "git add ." para añadir los archivos a un prox commit
