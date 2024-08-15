@@ -10,3 +10,4 @@ Con:
  - "git branch nombre-de-la-rama" (Para crear una rama, usarías ese comando) 
  - "git branch" ves las ramas
  - "git checkout nombre-rama" (cambias de rama)
+ - "git pull origin main" para poner lo del repo (que seria lo local) en tu equipo remoto. ESTO ES UN CAMBIO LOCO.
