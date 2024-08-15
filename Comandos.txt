@@ -1,8 +1,13 @@
 
 
 Con:
-
+ - "git clone link (el link sacado de git en la seccion de code...)" eso te clona tu repo en tu ordenador"
  - "git push origin main" parece que lo subir al repositorio posta.
  - "git commit -m "text" "  preparar el commit o algo asi
  - "git add ." para añadir los archivos a un prox commit
+ - "git pull origin main" para poner lo del repo (que seria lo local) en tu equipo remoto.
+
+ - "git branch nombre-de-la-rama" (Para crear una rama, usarías ese comando) 
+ - "git branch" ves las ramas
+ - "git checkout nombre-rama" (cambias de rama)
  - "git pull origin main" para poner lo del repo (que seria lo local) en tu equipo remoto. ESTO ES UN CAMBIO LOCO.
